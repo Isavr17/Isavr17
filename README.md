@@ -1,6 +1,6 @@
 # Que tal yo me llamo Isaac Valle R.✌️
 
-## Soy de Mexico, estudiante de programacion en el instituto San Carlos en tercer semestre.
+## Soy de Mexico, estudiante de programacion en el instituto San Carlos en quinto semestre.
 
 Actualmente curso el tercer semestre de bachillerato, ademas comente el bootcamp de **undefined shell**🐚, ademas de esto estudio algunos lenguajes en **codecademy**.
 
