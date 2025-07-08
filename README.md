@@ -1,34 +1,19 @@
-# Que tal yo me llamo Isaac Valle R.✌️
+# Hello, I'm Isaac Valle 👋
 
-## Soy de Mexico, estudiante de programacion en el instituto San Carlos en quinto semestre.
+## About Me
+Full-Stack Developer with a focus on front-end and UI design. Passionate about building responsive and user-friendly websites.
 
-Actualmente curso el tercer semestre de bachillerato, ademas comente el bootcamp de **undefined shell**🐚, ademas de esto estudio algunos lenguajes en **codecademy**.
+## Skills
+- HTML / CSS / JavaScript / Tailwind
+- PostgreSQL / MySQL
+- Figma / Photoshop / Illustrator
 
-- HTML
-- PYTHON
-- REACT
+## Projects
+- **Task Manager App** – A simple to-do app using JS and local storage.
+- **Weather API App** – Displays live weather data using OpenWeatherMap API.
+- **Weather API App** – Displays live weather data using OpenWeatherMap API.
 
-Me considero un tanto hiperactivo, apasionado por las motos🏍️ y los autos🚗.
+## Contact
+[GitHub](https://github.com/Isavr17) • [LinkedIn](https://www.linkedin.com/in/isaac-valle-2b3b82322/) • **Email:** isaacvallrm@gmail.com
 
-Algunos de mis pasatiempos son, jugar basketball🏀️, entrenar y escuchar musica 🎶 .
-
-## Puedes contactarme en: 
-📱[Instagram](https://www.instagram.com/chk_bsk1?igsh=NGN0N3o4dmRpNWNh) 
-🐦[Twitter](https://x.com/isaacvlrm17?t=TtIPV45GMsETquDDWk2upA&s=09)
-
-## Comandos de la terminal 
-
-| Comando      | Descripcion     |
-|:-------------:|:--------------------------------------:|
-| mkdir         | Crear carpetas                         | 
-| whoami        | Nombre del usuario                     | 
-| ls            | Listar archivos de la ubicacion actual |
-| Date          | Fecha y hora actuales                  |
-| pwd           | Ruta absoluta del directorio actual    |
-
-## Comandos alias
-
-| Alias    | Descripcion | 
-|:--------:|:----------:|
-| cl | Limpiar pantalla |
-| ls | lista            |
+ 
